@@ -1,0 +1,8 @@
+# Title: Alexey Borealis DNS Whitelist
+# Description: Just a personal whitelist
+# Homepage: https://github.com/aborealis/whitelist/list.txt
+# Last modified: 21 Jun 2025 17:56 UTC
+# Version: 2025.0621
+# Syntax: Hosts (including possible subdomains)
+#
+0.0.0.0 ads.google.com
